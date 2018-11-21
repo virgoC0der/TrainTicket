@@ -2,8 +2,8 @@
 在12306.com购买火车票
 
 ## 使用方法:
-1.在config.ini中设置12306用户名、密码，乘车人信息
-2.[点击下载chromedriver](http://npm.taobao.org/mirrors/chromedriver/)
+1.在config.ini中设置12306用户名、密码，乘车人信息  
+2.[点击下载chromedriver](http://npm.taobao.org/mirrors/chromedriver/)  
 3.在config.ini中
 ```
 ## 路径信息
