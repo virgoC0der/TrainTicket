@@ -1,7 +1,10 @@
 # TrainTicket
 在12306.com购买火车票
 
-## 使用方法:
+### 运行环境：
+python3.7, splinter, configparser, pycharm
+
+### 使用方法:
 1.在config.ini中设置12306用户名、密码，乘车人信息 
 ```
 ## 登陆账号和密码
